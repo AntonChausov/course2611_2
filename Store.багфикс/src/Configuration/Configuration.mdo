@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:Configuration xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" xmlns:mdclassExtension="http://g5.1c.ru/v8/dt/metadata/mdclass/extension" uuid="f85c87cc-a2a4-4c84-be6a-32f182cbfecc">
+  <name>багфикс</name>
+  <synonym>
+    <key>ru</key>
+    <value>Багфикс</value>
+  </synonym>
+  <objectBelonging>Adopted</objectBelonging>
+  <extension xsi:type="mdclassExtension:ConfigurationExtension">
+    <defaultRunMode>Checked</defaultRunMode>
+    <usePurposes>Checked</usePurposes>
+    <defaultLanguage>Checked</defaultLanguage>
+    <interfaceCompatibilityMode>Checked</interfaceCompatibilityMode>
+    <compatibilityMode>Checked</compatibilityMode>
+    <defaultRoles>Extended</defaultRoles>
+  </extension>
+  <containedObjects classId="9cd510cd-abfc-11d4-9434-004095e12fc7" objectId="e60ad74e-fc12-4b73-a309-aefdbe6b4b25"/>
+  <containedObjects classId="9fcd25a0-4822-11d4-9414-008048da11f9" objectId="9102e0e2-4941-4321-bb74-3a1ba357d7cf"/>
+  <containedObjects classId="e3687481-0a87-462c-a166-9f34594f9bba" objectId="f8214b04-c9cc-4031-b726-dd06491d1881"/>
+  <containedObjects classId="9de14907-ec23-4a07-96f0-85521cb6b53b" objectId="17d320ae-1018-416c-9d2f-8007767d903f"/>
+  <containedObjects classId="51f2d5d8-ea4d-4064-8892-82951750031e" objectId="d9b35864-8a61-4c57-aea9-433a2ea96c20"/>
+  <containedObjects classId="e68182ea-4237-4383-967f-90c1e3370bc7" objectId="643ef24d-d52b-4e5c-9da9-6165536744c8"/>
+  <containedObjects classId="fb282519-d103-4dd3-bc12-cb271d631dfc" objectId="13c59129-5c4c-4e27-8f2c-cf6c98d3b609"/>
+  <keepMappingToExtendedConfigurationObjectsByIDs>true</keepMappingToExtendedConfigurationObjectsByIDs>
+  <namePrefix>БФ_</namePrefix>
+  <configurationExtensionCompatibilityMode>8.3.27</configurationExtensionCompatibilityMode>
+  <configurationExtensionPurpose>Customization</configurationExtensionPurpose>
+  <defaultRunMode>ManagedApplication</defaultRunMode>
+  <usePurposes>PersonalComputer</usePurposes>
+  <scriptVariant>Russian</scriptVariant>
+  <defaultRoles>Role.БФ_ОсновнаяРоль</defaultRoles>
+  <defaultLanguage>Language.Русский</defaultLanguage>
+  <compatibilityMode>8.3.27</compatibilityMode>
+  <languages uuid="fda77f9b-88ef-4e6b-b968-ac6ce800acfe" extendedConfigurationObject="7fe56808-43ac-41e5-a6be-c6c74a034b5f">
+    <name>Русский</name>
+    <objectBelonging>Adopted</objectBelonging>
+    <extension xsi:type="mdclassExtension:LanguageExtension">
+      <extendedConfigurationObject>Checked</extendedConfigurationObject>
+      <languageCode>Checked</languageCode>
+    </extension>
+    <languageCode>ru</languageCode>
+  </languages>
+  <roles>Role.БФ_ОсновнаяРоль</roles>
+  <documents>Document.ПоступлениеТовара</documents>
+</mdclass:Configuration>
