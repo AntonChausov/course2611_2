@@ -40,13 +40,17 @@
     <languageCode>ru</languageCode>
   </languages>
   <catalogs>Catalog.ААААА</catalogs>
+  <catalogs>Catalog.Должности</catalogs>
   <catalogs>Catalog.Контрагенты</catalogs>
   <catalogs>Catalog.Номенклатура</catalogs>
+  <catalogs>Catalog.Подразделения</catalogs>
   <catalogs>Catalog.Производители</catalogs>
+  <catalogs>Catalog.Сотрудники</catalogs>
   <catalogs>Catalog.Справочник</catalogs>
   <catalogs>Catalog.Справочник1</catalogs>
   <documents>Document.Документ1</documents>
   <documents>Document.ПоступлениеТовара</documents>
+  <documents>Document.ПриемНаРаботу</documents>
   <documents>Document.ПродажаТовара</documents>
   <reports>Report.Отчет1</reports>
   <accumulationRegisters>AccumulationRegister.Товары</accumulationRegisters>
