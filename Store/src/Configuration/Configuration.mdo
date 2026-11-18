@@ -42,8 +42,9 @@
   <catalogs>Catalog.ААААА</catalogs>
   <catalogs>Catalog.Контрагенты</catalogs>
   <catalogs>Catalog.Номенклатура</catalogs>
-  <catalogs>Catalog.Справочник1</catalogs>
+  <catalogs>Catalog.Производители</catalogs>
   <catalogs>Catalog.Справочник</catalogs>
+  <catalogs>Catalog.Справочник1</catalogs>
   <documents>Document.Документ1</documents>
   <documents>Document.ПоступлениеТовара</documents>
   <documents>Document.ПродажаТовара</documents>
