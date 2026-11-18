@@ -12,7 +12,6 @@
   <containedObjects classId="51f2d5d8-ea4d-4064-8892-82951750031e" objectId="c68d7650-542b-497d-8d31-6d77055c7f18"/>
   <containedObjects classId="e68182ea-4237-4383-967f-90c1e3370bc7" objectId="9a336b0b-a07d-4162-a65e-b10177d59c3e"/>
   <containedObjects classId="fb282519-d103-4dd3-bc12-cb271d631dfc" objectId="0ec00e4a-16a2-4c14-b39a-158bc733c97b"/>
-  <configurationExtensionCompatibilityMode>8.3.27</configurationExtensionCompatibilityMode>
   <defaultRunMode>ManagedApplication</defaultRunMode>
   <usePurposes>PersonalComputer</usePurposes>
   <scriptVariant>Russian</scriptVariant>
@@ -25,6 +24,7 @@
       <use>true</use>
     </functionality>
   </usedMobileApplicationFunctionalities>
+  <clientApplicationWindowsOpenVariant>OpenDataInDialogs</clientApplicationWindowsOpenVariant>
   <defaultLanguage>Language.Русский</defaultLanguage>
   <dataLockControlMode>Managed</dataLockControlMode>
   <objectAutonumerationMode>NotAutoFree</objectAutonumerationMode>
